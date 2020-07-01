@@ -1,6 +1,6 @@
 # copiato da hello-world
-cambio la descrizione in il box di villa
-no
+
+ho cancellato la descrizione 
 Branching is the way to work on different versions of a repository at one time.
 
 working directory  <<<----checkout------REPOSITORY on GITHUB
@@ -15,3 +15,5 @@ mi riprometto di scrivere almeno un capitolo con VIM
 
 25/6 :  utilizzo  il desktop HP , con GIThub desltop e Atom  come editor.
       è la seconda prova dopo la ripresa.
+01/7 : utilizzo  il desktop HP , con GIThub desltop e Atom  come editor
+      non vedo le modifiche fatte oggi stesso, 3 ore fa, sul laptop acer.
