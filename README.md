@@ -19,3 +19,6 @@ mi riprometto di scrivere almeno un capitolo con VIM
       è la seconda prova dopo la ripresa.
 01/7 : utilizzo  il desktop HP , con GIThub desltop e Atom  come editor
       non vedo le modifiche fatte oggi stesso, 3 ore fa, sul laptop acer.
+01/7 : lavoro sul web, creando un branch che ho chiamato ciao-mondo-01
+       da chiarire la differenza tra fare un clone e fare un branch
+       farò un commit changes scrivendo un commit message
