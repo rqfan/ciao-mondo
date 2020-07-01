@@ -1,6 +1,6 @@
 # copiato da hello-world
 
-ho cancellato la descrizione 
+ho cancellato la descrizione
 Branching is the way to work on different versions of a repository at one time.
 
 working directory  <<<----checkout------REPOSITORY on GITHUB
@@ -12,6 +12,8 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 nel giugno 2020 riprendo questo progetto git con l'intento di imparare e abituarmi ad usare git.
 immagino di dover scrivere un libro, fatto di vari capitoli.
 mi riprometto di scrivere almeno un capitolo con VIM
+01/7 : utilizzo  il desktop HP , con GIThub desltop e Atom  come editor
+      non vedo le modifiche fatte oggi stesso, 3 ore fa, sul laptop acer.
 
 25/6 :  utilizzo  il desktop HP , con GIThub desltop e Atom  come editor.
       è la seconda prova dopo la ripresa.
