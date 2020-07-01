@@ -1,0 +1,11 @@
+You're in , , Italy
+Your Latitude: 43.1479
+Your Longitude: 12.1097
+
+https://guides.github.com/features/mastering-markdown/
+
+Use markdown formatting to explain the work you have done on your branch.
+Summarize your proposed change.
+Mention the training team using @githubteacher.
+Use the keywords closes immediately followed by your issue number (e.g. closes #3)to note which Issue the Pull Request is addressing. When you do this, the issue will be automatically closed when the pull request is merged.
+Pull Request messages are an excellent opportunity for you to describe the changes you have made to the project. For example, you could also include information explaining the type of feedback you’d like others to give you or providing collaborators an idea of your timeline.
