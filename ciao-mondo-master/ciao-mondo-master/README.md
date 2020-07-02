@@ -20,4 +20,4 @@ mi riprometto di scrivere almeno un capitolo con VIM
 	percio  ho provato questa altra strada : 
 	ho fatt download del zip, estratto e lanciare Git GUI per  vederlo.
 	ho anche scaricao ma non ancora installato GitHubDesktopSetup
-	vorrei capire percge 
+	vorrei capire il perche' dell'errore (errore di cartella destinataria già esistente)
