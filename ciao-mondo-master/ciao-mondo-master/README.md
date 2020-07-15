@@ -21,3 +21,7 @@ mi riprometto di scrivere almeno un capitolo con VIM
 	ho fatt download del zip, estratto e lanciare Git GUI per  vederlo.
 	ho anche scaricao ma non ancora installato GitHubDesktopSetup
 	vorrei capire il perche' dell'errore (errore di cartella destinataria già esistente)
+15/07:	aggiungo riga su web da acer E15 W10 con click su matita in corrispondenza di README.md
+	posso cambiare da preview changes a edit file
+	aggiungo anche una extended description al README.md
+	clicco su commit changes
